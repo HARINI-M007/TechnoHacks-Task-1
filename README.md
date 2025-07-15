@@ -2,6 +2,8 @@
 
 **COMPANY**: TechnoHacks Solutions Pvt. Ltd.
 
+**BATCH NUMBER**: 98
+
 **NAME**: HARINI.M
 
 **INTERN ID**:  TH0725B98 
